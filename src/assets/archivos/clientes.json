@@ -3,17 +3,20 @@
         {   "nombre":"Finn",
             "texto":"I'm a big deal",
             "descripcion":"Listen, I've had a pretty messed up day",
-            "foto":"avatar-finn.png"
+            "foto":"avatar-finn.png",
+            "estado":false
         },
         {   "nombre":"Han",
-            "texto":"Look, kid",
+             "texto":"Look, kid",
             "descripcion":"I've got enough on my plate as it is, and I",
-            "foto":"avatar-han.png"
+            "foto":"avatar-han.jpeg",
+            "estado":true
         },
         {   "nombre":"Luke",
             "texto":"Your thoughts betray you",
             "descripcion":"I feel the good in you, the conflict",
-            "foto":"avatar-luke.png"
+            "foto":"avatar-luke.jpeg",
+            "estado":false
         }
     ]
 }
